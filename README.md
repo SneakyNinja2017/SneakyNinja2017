@@ -1,4 +1,4 @@
-### Hi there 👋
+### More than one way to Metadata
 
 <!--
 **SneakyNinja2017/SneakyNinja2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
