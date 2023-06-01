@@ -6,10 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently attending Drexel University.
-- 🌱 I’m currently obtaining my Master's Degree.
-- 👯 I’m working for a car insurance company.
-- 🤔 I live with my family.
-- 💬 I like to read and complete crafts.
-- 📫 I know how to play several instruments.
-- 😄 I'm going to two concerts in 2023.
-- ⚡ I'm excited to graduate at the end of 2023.
+- 🌱 I’m currently obtaining my Master's Degree in Librarianship and Information Science.
+
+I really liked the data curation repository "Awesome Big Data" by newTendermint <a href="https://github.com/newTendermint/awesome-bigdata.git">link</a> because it provides a lot of information and a variety of media methods on data curation RBDMs and frameworks along with programming software and example models of successful data curation already taking place online. This person is passionate about data curation and their repository demonstrates this with the extensive amount of references and information they have included. 
